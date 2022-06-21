@@ -1,15 +1,20 @@
 # rakamin
 final project rakamin batch 21
+
 fantastic four
 
 a european bank aimed to acquire more term deposit subscribers. one of the most effective marketing campaign is telemarketing.
 
 problem: telemarketing has huge cost
+
 goal: optimize marketing cost by increasing success rate
+
 solution: pre-filter people to contact
+
 metric: recall - minimize error in predicting prospective people as not prospective
 
 final model: decision tree
+
 score: recall - train set 99,9% and test set 99,6%
 
 feature importance: balance, age, and education level made up for 50% of decision to subscribe
