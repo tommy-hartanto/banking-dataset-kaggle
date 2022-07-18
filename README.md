@@ -1,4 +1,4 @@
-# rakamin
+# Banking Dataset - Kaggle
 final project rakamin batch 21
 
 fantastic four
